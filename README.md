@@ -1,6 +1,7 @@
 # graphics_5
 
 "graphics_5"는 "Visual Studio Code", "CMake"를 기본 환경으로 수행되었습니다.
+"컴퓨터그래픽스및영상처리" 과목을 같이 듣는 김소영 학우의 도움으로 vertex array 부분을 완료했습니다.
 
 # Directory Layout
 > + include
