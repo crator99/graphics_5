@@ -25,6 +25,6 @@ C++ 파일의 수행을 위해 G++, GCC, GDB 등의 설치
 
 결과 화면
 
-https://github.com/crator99/graphics_5/blob/main/screenshot/Immediate%20Mode.jpg
+![Immediate Mode](https://github.com/crator99/graphics_5/blob/main/screenshot/Immediate%20Mode.jpg)
 
-https://github.com/crator99/graphics_5/blob/main/screenshot/Vertex%20Array%20Mode.jpg
+![Vertex Array Mode](https://github.com/crator99/graphics_5/blob/main/screenshot/Vertex%20Array%20Mode.jpg)
